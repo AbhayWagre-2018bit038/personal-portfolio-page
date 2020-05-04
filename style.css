@@ -1,1 +1,33 @@
 /* Add your CSS code here */
+* {
+	font-family: Helvetica,Arial,sans-serif;
+	max-width: 700px;
+	margin: auto;
+}
+body{
+	min-width: 500px;
+	background-color: #e0eeee;
+}
+.profileBody{
+	display: inline-block;
+	background-color: white;
+	margin-top: 6px;
+	margin-left: 55px;
+	width: 75%;
+	height: 590px;
+}
+.pt{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#pos{
+	text-shadow: 2px 2px: 
+}
+.heading{
+	 
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 28pt;
+  font-weight: 900;
+}
