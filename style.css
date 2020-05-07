@@ -5,16 +5,16 @@
 	margin: auto;
 }
 body{
-	min-width: 0px;
-	background-color: rgb(0,0,0,0);
+	min-width: 500px;
+	background-color: #e0eeee;
 }
 .profileBody{
-	display: block;
+	display: inline-block;
 	background-color: white;
-	margin-top: 0px;
-	margin-left: 0px;
+	margin-top: 6px;
+	margin-left: 55px;
 	width: 75%;
-	height: 818.656px;
+	height: 590px;
 }
 .pt{
 	margin-left: 20px;
