@@ -10,14 +10,14 @@ Before starting this project make sure that you have completed learning followin
 - HTML links
 - HTML headings
 - CSS box model
-- CSS units
+- CSS units 
 
 ### Web Page Mock Up
 Following is the sample of how your final page should look like. Follow the step by step tasks in order to recreate the page shown below. We encourage you to add your own data instead of the dummy data used in the following screen.
 
 ![](images/profile.PNG)
 
-### User Stories
+up
 
 #### User Story 1
 As this is the first time you will be creating a full-fledged web page, we recommend you to set up your laptop with the IDE. You can use any IDE but we recommend you use [Visual Studio Code](https://code.visualstudio.com/) which is freely available. You can go through a quick setup guide available [here](https://code.visualstudio.com/docs/setup/setup-overview) for all operating systems.
